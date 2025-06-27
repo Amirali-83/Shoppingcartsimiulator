@@ -1,0 +1,22 @@
+Enter command (add, remove, list, total, exit, list_all): list_all
+All available products and quantities:
+Product(Category: Mobile, ID: A215PM, Name: iPhone 15 Pro max, Description: Free shipping, Price: 1449€),Quantity: 5
+Product(Category: Mobile, ID: A215P, Name: iPhone 15 Pro, Description: Free shipping, Price: 1199€),Quantity: 0
+Product(Category: Mobile, ID: A215, Name: iPhone 15, Description: Free shipping, Price: 949€),Quantity:  10
+Product(Category: Mobile, ID: S423U, Name: Galaxy S23 Ultra, Description: Free shipping, Price: 1.189€),Quantity: 12
+Product(Category: Mobile, ID: S423FE, Name: Galaxy S23FE, Description: Free shipping, Price: 699€),Quantity: 12
+Product(Category: Mobile, ID: S423, Name: Galaxy S23, Description:  Free shipping, Price: 859€),Quantity: 15
+Product(Category: Headphones, ID: A220MX, Name: Airpods Max, Description: Free shipping, Price: 579€),Quantity: 27
+Product(Category: Headphones, ID: A223, Name: Airpods 3.Generation, Description: Free shipping, Price: 199),Quantity: 0
+Product(Category: Headphones, ID: A222, Name: Airpods Pro 2, Description: Free shipping, Price: 279€),Quantity: 33
+Product(Category: Headphones, ID: S410, Name: Galaxy Buds2 Pro, Description: Free shipping, Price: 149€),Quantity: 7
+Product(Category: Headphones, ID: S411, Name: Galaxy Buds FE, Description: Free shipping, Price: 99€),Quantity: 31
+Product(Category: Accessories, ID: S431, Name: Galaxy S23 Screen Protector, Description: Free shipping, Price: 13€),Quantity: 23
+Product(Category: Accessories, ID: S432, Name: Galaxy S23 Ultra case, Description: Free shipping, Price: 32€),Quantity: 56
+Product(Category: Accessories, ID: S433, Name: Galaxy S23 case, Description: Free shipping, Price: 23€),Quantity: 25
+Product(Category: Accessories, ID: S434, Name: Galaxy S23 FE case, Description: Free shipping, Price: 25€),Quantity: 24
+Product(Category: Accessories, ID: A241, Name: Air Tag, Description: Free shipping, Price: 39€),Quantity:78
+Product(Category: Accessories, ID: A242, Name: iPhone 15 case, Description: Free shipping, Price: 49€),Quantity:11
+Product(Category: Accessories, ID: A243, Name: iPhone 15 Pro case, Description: Free shipping, Price: 69€),Quantity:8
+Product(Category: Accessories, ID: A244, Name: iPhone 15 Pro Max case, Description: Free shipping, Price: 74€),Quantity: 7
+
